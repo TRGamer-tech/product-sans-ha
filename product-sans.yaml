@@ -1,0 +1,25 @@
+Product Sans:
+  # Font family
+  primary-font-family: "Product Sans, sans-serif"
+  mdc-typography-font-family: "Product Sans, sans-serif"
+  paper-font-common-base_-_font-family: "var(--primary-font-family)"
+  paper-font-common-code_-_font-family: "var(--primary-font-family)"
+  paper-font-body1_-_font-family: "var(--primary-font-family)"
+  paper-font-subhead_-_font-family: "var(--primary-font-family)"
+  paper-font-headline_-_font-family: "var(--primary-font-family)"
+
+  # Typography weights per component, since Material components
+  # like to hardcode font-weight instead of respecting font-family alone
+  mdc-typography-button-font-family: "var(--primary-font-family)"
+  mdc-typography-headline1-font-family: "var(--primary-font-family)"
+  mdc-typography-headline2-font-family: "var(--primary-font-family)"
+  mdc-typography-headline3-font-family: "var(--primary-font-family)"
+  mdc-typography-headline4-font-family: "var(--primary-font-family)"
+  mdc-typography-headline5-font-family: "var(--primary-font-family)"
+  mdc-typography-headline6-font-family: "var(--primary-font-family)"
+  mdc-typography-subtitle1-font-family: "var(--primary-font-family)"
+  mdc-typography-subtitle2-font-family: "var(--primary-font-family)"
+  mdc-typography-body1-font-family: "var(--primary-font-family)"
+  mdc-typography-body2-font-family: "var(--primary-font-family)"
+  mdc-typography-caption-font-family: "var(--primary-font-family)"
+  mdc-typography-overline-font-family: "var(--primary-font-family)"
